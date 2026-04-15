@@ -23,8 +23,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Software Engineer with hands-on experience in full-stack web development using JavaScript technologies including React, Node.js, and Express.js, along with MongoDB for database management. I have a strong foundation in building scalable, responsive, and maintainable web applications following clean code practices and RESTful API design principles. Alongside development, I have gained practical exposure to DevOps tools and cloud technologies such as Azure DevOps, Docker, Jenkins, Terraform, and CI/CD pipelines, which has strengthened my understanding of modern software delivery practices. I am passionate about continuously learning new technologies, improving system efficiency, and contributing to real-world, production-ready applications. My goal is to grow as a Full Stack Engineer and contribute to building reliable and scalable software systems.
----
+I am a Software Engineer with hands-on experience in full-stack web development using React, Node.js, Express.js, and MongoDB. I focus on building scalable, responsive, and maintainable applications using clean code practices and RESTful API design. I also have exposure to DevOps tools and cloud technologies such as Azure DevOps, Docker, Jenkins, Terraform, and CI/CD pipelines. I am passionate about continuous learning and aim to grow as a Full Stack Engineer contributing to reliable and scalable software systems.
 
 ## 🛠️ Tech Stack
 
@@ -52,8 +51,8 @@ I am a Software Engineer with hands-on experience in full-stack web development 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mith29&show_icons=true&theme=vue" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mith29&theme=vue" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mith29&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mith29&theme=radical" height="160"/>
 </p>
 
 ---
