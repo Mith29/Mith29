@@ -51,8 +51,8 @@ I am a Software Engineer with hands-on experience in full-stack web development 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mith29&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mith29&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mith29&show_icons=true&theme=vue" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mith29&theme=vue" height="160"/>
 </p>
 
 ---
